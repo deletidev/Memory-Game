@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [Ver página](https://rock-papper-scissors.onrender.com/)
+- [Ver página](https://memory-game-68f1.onrender.com/)
 
 ## Descripción 📑
 
